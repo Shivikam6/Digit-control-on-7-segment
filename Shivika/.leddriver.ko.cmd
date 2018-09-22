@@ -1,0 +1,1 @@
+cmd_/home/debian/Shivika/leddriver.ko := ld -EL -r  -T /usr/src/linux-headers-3.8.13-bone70/scripts/module-common.lds --build-id  -o /home/debian/Shivika/leddriver.ko /home/debian/Shivika/leddriver.o /home/debian/Shivika/leddriver.mod.o
